@@ -46,7 +46,11 @@
 	height: 50px;
 	clear: both;
 }
-
+p{
+	text-indent: 30px;
+	text-decoration:line-through;
+	letter-spacing:20px;
+}
 
 </style>
 </head>
@@ -56,10 +60,11 @@
 		<div id="content">
 			<div id="lside">
 				<div class="div1">
+					<p>
 					从第六课就开始有点糊涂了，不怎么懂了，
 					田字布局这么弄啊 上一节布置的作业下一
 					节课不讲一下的吗，不指点下的吗？？？
-					
+					</p>
 				</div>
 				<div class="div1">从第六课就开始有点糊涂了，不怎么懂了，
 					田字布局这么弄啊 上一节布置的作业下一
