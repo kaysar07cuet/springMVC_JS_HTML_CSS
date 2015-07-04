@@ -70,4 +70,5 @@
 	<mvc:view-controller path="/timer" view-name="timer"/>
 	<mvc:view-controller path="/html" view-name="html"/>
 	<mvc:view-controller path="/roll" view-name="roll"/>
+	<mvc:view-controller path="/act" view-name="act"/>
 </beans>
